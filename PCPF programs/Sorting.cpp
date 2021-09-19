@@ -12,7 +12,6 @@ void swap(int &x,int &y)
 int main()
 {
     int a[] = {1,4,22,4,56,89,23,55,34,66,12,34,65,11,56,32,55,6,67,89};
-    //int a[]={1,3,2,3};
 
     int size = sizeof(a)/sizeof(a[0]);
    
